@@ -1,0 +1,55 @@
+
+
+
+
+Expériences professionnelles
+
+
+Chef d'équipe pour le recensement de la population RGPH-III, Madagascar-Brickaville CR-FETRAOMBY
+RGPH-III: 3ème Recensement Général de la Population et de l'Habitat, organisé par INSTAT
+
+2018
+
+
+Stages
+
+
+Assistant Informatique dans CIR (Centre Informatique Régional)
+DGFAG, TAMATAVE
+Création d'API REST pour gérer les problèmes rencontrés et en proposant de façon automatiques les solutions correspondant au niveau du CIR
+
+Certificats
+
+De mars 2022 à juillet 2022
+
+
+
+BAC série D LYCÉE Brickaville
+
+2017
+
+
+
+Licence en Informatique Académique Université de TOAMASINA
+
+2020
+
+
+
+Master en Génie Informatique Université de TOAMASINA
+
+2024
+
+
+
+
+Compétences en Informatique
+
+
+Langage de programmation JAVA
+
+Langage de programmation Python
+
+Framework LARAVEL
+
+Maintenances Informatique (Réseaux et Systèmes)

@@ -1,0 +1,32 @@
+{
+  "name": "nestor-ratongalaza-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio professionnel de Nestor Ratongalaza - Développeur Web Full Stack",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -o",
+    "build": "echo 'Portfolio prêt pour le déploiement'",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "web",
+    "java",
+    "spring-boot",
+    "react",
+    "fastapi",
+    "python"
+  ],
+  "author": "Nestor Ratongalaza",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "gh-pages": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raoulnest/PORTFOLIO-RAOULNEST.git"
+  },
+  "homepage": "https://raoulnest.github.io/PORTFOLIO-RAOULNEST"
+}
